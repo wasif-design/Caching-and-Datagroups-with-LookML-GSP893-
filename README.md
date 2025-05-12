@@ -1,5 +1,3 @@
-# Caching-and-Datagroups-with-LookML-GSP893-
-training_ecommerce.model
 connection: "bigquery_public_data_looker"
 
 # include all the views
